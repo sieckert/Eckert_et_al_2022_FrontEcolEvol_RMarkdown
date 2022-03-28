@@ -17,7 +17,7 @@
 #'   & Joshi, J. (2022). Data from&colon;
 #'   Traces of Genetic but Not Epigenetic Adaptation in the Invasive
 #'   Goldenrod _Solidago canadensis_ Despite the Absence of Population
-#'   Structure. ZENODO repository. doi&colon; <a target="_blank" rel="noopener noreferrer" href=""></a></center></p>
+#'   Structure. ZENODO repository. doi&colon; <a target="_blank" rel="noopener noreferrer" href="https://www.doi.org/10.5281/zenodo.6388135">10.5281/zenodo.6388135</a></center></p>
 #' geometry: margin=2cm
 #' output:
 #'   html_document:
