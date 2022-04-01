@@ -1,5 +1,5 @@
 [![Repository](https://zenodo.org/badge/470240336.svg)](https://zenodo.org/badge/latestdoi/470240336) 
-[![Zenodo](https://zenodo.org/badge/Zenodo/10.5281/zenodo.6388135.svg)](https://doi.org/10.5281/zenodo.6388135)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.6388135.svg)](https://doi.org/10.5281/zenodo.6388135)
 
 # RMarkdown documents from: Eckert et al. (2022)
 
