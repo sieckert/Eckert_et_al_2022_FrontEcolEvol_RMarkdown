@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/470240336.svg)](https://zenodo.org/badge/latestdoi/470240336)
+
 # RMarkdown documents from: Eckert et al. (2022)
 
 This repository contains the archived RMarkdown scripts used to generate the results presented in the following manuscript:
