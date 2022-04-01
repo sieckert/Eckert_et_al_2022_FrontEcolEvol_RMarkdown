@@ -8,7 +8,7 @@ This repository contains the archived RMarkdown scripts used to generate the res
 
 ---
 
-The data behind these RMarkdown documents is hosted in the Zenodo repository with the following doi: [10.5281/zenodo.6388135](https://www.doi.org/10.5281/zenodo.6388135)
+The data behind these RMarkdown documents is publicly accessible in the Zenodo repository via the following doi: [10.5281/zenodo.6388135](https://www.doi.org/10.5281/zenodo.6388135). The RMarkdown documents are connected with the Zenodo deposition via the following doi: [10.5281/zenodo.6406884](https://www.doi.org/10.5281/zenodo.6406884).
 
 ---
 
