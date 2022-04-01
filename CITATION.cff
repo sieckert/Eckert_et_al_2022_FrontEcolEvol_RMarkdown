@@ -11,7 +11,7 @@ message: >-
   If you use this software, please cite it using the
   metadata from this file.
 date-released: "2022-04-01"
-type: software
+type: software-code
 authors:
   - family-names: Eckert
     given-names: Silvia
@@ -20,7 +20,7 @@ authors:
       Institute of Biochemistry and Biology,
       University of Potsdam, Potsdam, Germany
     orcid: 'https://orcid.org/0000-0002-8896-1046'
-repository-code: "https://github.com/sieckert/EckertHerdenStiftDurkavanKleunenJoshi_2022_RMarkdown/edit/main/README.md"
+repository-code: "https://github.com/sieckert/EckertHerdenStiftDurkavanKleunenJoshi_2022_RMarkdown"
 version: 1.0.0
 identifiers:
   - description: "The datasets deposited in the Zenodo repository."
