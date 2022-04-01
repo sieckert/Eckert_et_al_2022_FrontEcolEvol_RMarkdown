@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  RMarkdown documents from: Traces of Genetic but Not
+  Epigenetic Adaptation in the Invasive Goldenrod
+  Solidago canadensis Despite the Absence of
+  Population Structure
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+date-released: "2022-04-01"
+type: software
+authors:
+  - family-names: Eckert
+    given-names: Silvia
+    affiliation: >-
+      Biodiversity Research/Systematic Botany,
+      Institute of Biochemistry and Biology,
+      University of Potsdam, Potsdam, Germany
+    orcid: 'https://orcid.org/0000-0002-8896-1046'
+repository-code: "https://github.com/sieckert/EckertHerdenStiftDurkavanKleunenJoshi_2022_RMarkdown/edit/main/README.md"
+version: 1.0.0
+identifiers:
+  - description: "The datasets deposited in the Zenodo repository."
+    type: doi
+    value: 10.5281/zenodo.6388135
